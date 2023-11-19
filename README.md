@@ -1,6 +1,6 @@
 # Amazon Sign in Clone and Amazon Create Account Clone
 
-![Icon1](images/amazon.png)
+![Icon1](images/amazon2.ico)
 
 Amazon Sign-in Clone with Amazon Create Account Clone is a html clone of amazon sign-in and create account page.
 
