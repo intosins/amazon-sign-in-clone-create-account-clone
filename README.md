@@ -1,8 +1,8 @@
-# Amazon Sign-in Clone and Amazon Create Account Clone
+# Amazon sign-in clone with Amazon create account clone
 
 ![Icon1](images/amazon2.ico)
 
-Amazon Sign-in Clone with Amazon Create Account Clone is a HTML clone of Amazon sign-in and create account page.
+Amazon sign-in clone with Amazon create account clone is a HTML, CSS, JS clone of Amazon sign-in and create account page.
 
 I am not responsible for any damage caused using this clone of Amazon sign in and Amazon create account clone.
 
