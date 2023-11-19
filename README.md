@@ -12,10 +12,6 @@ I am not responsible for any damage caused using this clone of amazon sign in an
 
 ![Project2](images/createaccount.png)
 
-## Features
-
-- Simple to use and setup.
-
 ## Discord
 
 ![Icon2](images/discord.png)
