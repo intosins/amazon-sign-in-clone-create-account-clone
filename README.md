@@ -1,16 +1,16 @@
 # Amazon Sign in Clone and Amazon Create Account Clone
 
-![Icon1](icons/projecticon.png)
+![Icon1](images/amazon.png)
 
 Amazon Sign-in Clone with Amazon Create Account Clone is a html clone of amazon sign-in and create account page.
 
-I'm not responsible for any damage caused using this clone of amazon sign in and amazon create account clone.
+I am not responsible for any damage caused using this clone of amazon sign in and amazon create account clone.
 
 ## Screenshots
 
-![Project1](icons/project.png)
+![Project1](images/signin.png)
 
-![Project2](icons/project2.png)
+![Project2](images/createaccount.png)
 
 ## Features
 
@@ -18,7 +18,7 @@ I'm not responsible for any damage caused using this clone of amazon sign in and
 
 ## Discord
 
-![Icon2](icons/discord.png)
+![Icon2](images/discord.png)
 
 Discord: @intosins
   
