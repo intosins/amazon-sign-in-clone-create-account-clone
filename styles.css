@@ -1,0 +1,165 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.signin-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+    text-align: center;
+}
+
+.signin2-container {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.signin2-container label, .signin2-container a {
+    display: inline;
+}
+
+.registration-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+    text-align: center;
+}
+
+.registration2-container {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.registration2-container label, .registration2-container a {
+    display: inline;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.signin-container button {
+    background-color: #ffdc14;
+    width: 150px;
+    color: black;
+    padding: 10px 15px;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.signin-container button:hover {
+    background-color: #f8cc04;
+}
+
+.registration-container button {
+    background-color: #ffdc14;
+    width: 150px;
+    color: black;
+    padding: 10px 15px;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.registration-container button:hover {
+    background-color: #f8cc04;
+}
+
+.create-account-container {
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.create-account-container p {
+    color: #848e92;
+}
+
+.create-account-container button {
+    background-color: #ffffff;
+    width: 100%;
+    color: black;
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.create-account-container button:hover {
+    background-color: #f7fafa;
+}
+
+.have-account-container {
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.have-account-container p {
+    color: #848e92;
+}
+
+.have-account-container button {
+    background-color: #ffffff;
+    width: 100%;
+    color: black;
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.have-account-container button:hover {
+    background-color: #f7fafa;
+}
+
+label {
+    margin-top: 8px;
+    display: block;
+}
+
+.signin2-container a {
+    margin-top: 8px;
+    display: block;
+}
+
+.signin3-container a {
+    display: block;
+}
+
+.registration2-container a {
+    margin-top: 8px;
+    display: block;
+}
+
+.registration3-container a {
+    display: block;
+}

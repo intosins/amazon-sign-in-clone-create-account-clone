@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="A simple registration form.">
+        <title>Amazon Registration</title>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="icon" href="images/amazon2.ico" type="image/x-icon">
+    </head>
+    <body>
+        <form id="registration">
+            <div class="logo-container">
+                <img src="images/amazon.png" alt="Amazon-Logo" name="logo" style="width: 110px; height: 30px;">
+            </div>
+            <div class="registration-container">
+                <header>
+                    <h2 style="text-align: left;">Create account</h2>
+                </header>
+
+                <label style="text-align: left;" for="name"><b>Your name</b></label>
+                <br>
+                <input style="text-align: left;" type="text" id="name" name="name" required>
+
+                <label style="text-align: left;" for="emailormobilephone"><b>Email or mobile phone number</b></label>
+                <br>
+                <input style="text-align: left;" type="text" id="emailormobilephone" name="emailormobilephone" required>
+
+                <label style="text-align: left;" for="password"><b>Password</b></label>
+                <br>
+                <input style="text-align: left;" type="password" id="password" name="password" required>
+
+                <label style="text-align: left;" for="reenterpassword"><b>Re-enter password</b></label>
+                <br>
+                <input style="text-align: left;" type="password" id="reenterpassword" name="reenterpassword" required>
+    
+                <br>
+                <button type="button" id="registration-button"><b>Continue</b></button>
+
+                <br>
+                <div class="registration2-container">
+                    <label style="display: inline-block; margin-right: 5px; font-size: 12px;">By creating an account, you agree to Amazon's 
+                        <a href="https://www.example.com" style="display: inline-block;">Conditions of Use</a> 
+                        <label>and</label> 
+                        <a href="https://www.example.com" style="display: inline-block;">Privacy Notice</a> 
+                    </label>
+                </div>
+
+                <br>
+                <div class="registration3-container">
+                    <label style="display: inline-block; margin-right: 5px; font-size: 12px;">
+                        <a href="https://www.example.com" style="display: inline-block;">Need help?</a> 
+                    </label>
+                </div>
+            </div>
+            <div class="have-account-container">
+                <p style="font-size: 12px" for="haveaccountamazon"><b>Already have an account?</b></p>
+                <button type="button" id="have-account-button"><b>Sign in</b></button>
+            </div>
+        </form>
+        <script src="javascript/createaccount.js"></script>
+    </body>
+</html>
