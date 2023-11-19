@@ -20,7 +20,7 @@ Discord: @intosins
   
 ## Usage
 
-U don't need to install anything, just run the signin.html or createaccount.html with Live Server extension installed in your VS code.
+You don't need to install anything, just run the signin.html or createaccount.html with Live Server extension installed in your VS code.
 
 ```bash
 1. Clone the repository:
