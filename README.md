@@ -1,33 +1,20 @@
-# Not encrypted password manager
+# Amazon Sign in Clone and Amazon Create Account Clone
 
 ![Icon1](icons/projecticon.png)
 
-![Language](https://img.shields.io/badge/language-Python-blue)
+Amazon Sign-in Clone with Amazon Create Account Clone is a html clone of amazon sign-in and create account page.
 
-Not encrypted password manager is a Python-based tool designed for saving your passwords, emails and usernames with application into editable file without extension and small amount of encryption.
-
-The project icon above taken from https://www.flaticon.com and edited.
+I'm not responsible for any damage caused using this clone of amazon sign in and amazon create account clone.
 
 ## Screenshots
 
 ![Project1](icons/project.png)
 
+![Project2](icons/project2.png)
+
 ## Features
 
-- Very simple to use.
-- You can save any password, from any website, counting email and username.
-- No apis or any other connections with web, means your passwords stored on your computer only.
-- You can copy password to clipboard by selecting account and clicking copy password to clipboard text at bottom.
-
-## Cons
-
-- Lack of password encryption.
-- Insufficient password protection.
-- No two-factor authentication.
-- Unhandled exceptions.
-- Lack of access protection mechanism.
-- Lack of session management.
-- Simple password hashing.
+- Simple to use and setup.
 
 ## Discord
 
@@ -37,21 +24,9 @@ Discord: @intosins
   
 ## Usage
 
-The not encrypted password manager is designed to run on Windows 10, Windows 8, and Windows 7 operating systems. And may not work on other OS (like Linux).
-
-Please note that you should have Python 3 installed on your system to run the tool successfully. The script was coded using Python version 3.11.5.
-
-Just download manager.py and run it in VS studio code to use password manager.
+U don't need to install anything, just run the signin.html or createaccount.html with Live Server extension installed in your VS code in any browser.
 
 ```bash
-1. Install the required dependencies:
-
-pip install tkinter hashlib pyperclip
-
-pip install tkinter
-pip install hashlib
-pip install pyperclip
-
-2. Clone the repository:
-git clone https://github.com/intosins/not-encrypted-password-manager.git
-cd not-encrypted-password-manager
+1. Clone the repository:
+git clone https://github.com/intosins/amazon-sign-in-clone.git
+cd amazon-sign-in-clone
